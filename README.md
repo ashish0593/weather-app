@@ -2,8 +2,7 @@
 Node Asynchronus Dynamic Weather App
 
 API's used:
-Google Geolocation
-Dark sky(forecast.io)
+Google Geolocation AND Dark sky(forecast.io)
 
 This application allows a user to dynamically enter any address and as results provide the current temperature and apparent temperature for that address. Displays the full address also.
 
